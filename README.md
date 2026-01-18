@@ -1,6 +1,4 @@
 # Music Info Website
-
-A simple HTML mini project  
 HTML Website to view music information
 
 This project is a static, browser-based website developed to display information about music, artists, and albums.  
